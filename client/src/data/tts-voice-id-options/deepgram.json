@@ -1,0 +1,289 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "aura 2 thalia en",
+         "voice_id" : "aura-2-thalia-en"
+      },
+      {
+         "name" : "aura 2 andromeda en",
+         "voice_id" : "aura-2-andromeda-en"
+      },
+      {
+         "name" : "aura 2 helena en",
+         "voice_id" : "aura-2-helena-en"
+      },
+      {
+         "name" : "aura 2 apollo en",
+         "voice_id" : "aura-2-apollo-en"
+      },
+      {
+         "name" : "aura 2 arcas en",
+         "voice_id" : "aura-2-arcas-en"
+      },
+      {
+         "name" : "aura 2 aries en",
+         "voice_id" : "aura-2-aries-en"
+      },
+      {
+         "name" : "aura 2 amalthea en",
+         "voice_id" : "aura-2-amalthea-en"
+      },
+      {
+         "name" : "aura 2 asteria en",
+         "voice_id" : "aura-2-asteria-en"
+      },
+      {
+         "name" : "aura 2 athena en",
+         "voice_id" : "aura-2-athena-en"
+      },
+      {
+         "name" : "aura 2 atlas en",
+         "voice_id" : "aura-2-atlas-en"
+      },
+      {
+         "name" : "aura 2 aurora en",
+         "voice_id" : "aura-2-aurora-en"
+      },
+      {
+         "name" : "aura 2 callista en",
+         "voice_id" : "aura-2-callista-en"
+      },
+      {
+         "name" : "aura 2 cora en",
+         "voice_id" : "aura-2-cora-en"
+      },
+      {
+         "name" : "aura 2 cordelia en",
+         "voice_id" : "aura-2-cordelia-en"
+      },
+      {
+         "name" : "aura 2 delia en",
+         "voice_id" : "aura-2-delia-en"
+      },
+      {
+         "name" : "aura 2 draco en",
+         "voice_id" : "aura-2-draco-en"
+      },
+      {
+         "name" : "aura 2 electra en",
+         "voice_id" : "aura-2-electra-en"
+      },
+      {
+         "name" : "aura 2 harmonia en",
+         "voice_id" : "aura-2-harmonia-en"
+      },
+      {
+         "name" : "aura 2 hera en",
+         "voice_id" : "aura-2-hera-en"
+      },
+      {
+         "name" : "aura 2 hermes en",
+         "voice_id" : "aura-2-hermes-en"
+      },
+      {
+         "name" : "aura 2 hyperion en",
+         "voice_id" : "aura-2-hyperion-en"
+      },
+      {
+         "name" : "aura 2 iris en",
+         "voice_id" : "aura-2-iris-en"
+      },
+      {
+         "name" : "aura 2 janus en",
+         "voice_id" : "aura-2-janus-en"
+      },
+      {
+         "name" : "aura 2 juno en",
+         "voice_id" : "aura-2-juno-en"
+      },
+      {
+         "name" : "aura 2 jupiter en",
+         "voice_id" : "aura-2-jupiter-en"
+      },
+      {
+         "name" : "aura 2 luna en",
+         "voice_id" : "aura-2-luna-en"
+      },
+      {
+         "name" : "aura 2 mars en",
+         "voice_id" : "aura-2-mars-en"
+      },
+      {
+         "name" : "aura 2 minerva en",
+         "voice_id" : "aura-2-minerva-en"
+      },
+      {
+         "name" : "aura 2 neptune en",
+         "voice_id" : "aura-2-neptune-en"
+      },
+      {
+         "name" : "aura 2 odysseus en",
+         "voice_id" : "aura-2-odysseus-en"
+      },
+      {
+         "name" : "aura 2 ophelia en",
+         "voice_id" : "aura-2-ophelia-en"
+      },
+      {
+         "name" : "aura 2 orion en",
+         "voice_id" : "aura-2-orion-en"
+      },
+      {
+         "name" : "aura 2 orpheus en",
+         "voice_id" : "aura-2-orpheus-en"
+      },
+      {
+         "name" : "aura 2 pandora en",
+         "voice_id" : "aura-2-pandora-en"
+      },
+      {
+         "name" : "aura 2 phoebe en",
+         "voice_id" : "aura-2-phoebe-en"
+      },
+      {
+         "name" : "aura 2 pluto en",
+         "voice_id" : "aura-2-pluto-en"
+      },
+      {
+         "name" : "aura 2 saturn en",
+         "voice_id" : "aura-2-saturn-en"
+      },
+      {
+         "name" : "aura 2 selene en",
+         "voice_id" : "aura-2-selene-en"
+      },
+      {
+         "name" : "aura 2 theia en",
+         "voice_id" : "aura-2-theia-en"
+      },
+      {
+         "name" : "aura 2 vesta en",
+         "voice_id" : "aura-2-vesta-en"
+      },
+      {
+         "name" : "aura 2 zeus en",
+         "voice_id" : "aura-2-zeus-en"
+      },
+      {
+         "name" : "aura 2 celeste es",
+         "voice_id" : "aura-2-celeste-es"
+      },
+      {
+         "name" : "aura 2 estrella es",
+         "voice_id" : "aura-2-estrella-es"
+      },
+      {
+         "name" : "aura 2 nestor es",
+         "voice_id" : "aura-2-nestor-es"
+      },
+      {
+         "name" : "aura 2 sirio es",
+         "voice_id" : "aura-2-sirio-es"
+      },
+      {
+         "name" : "aura 2 carina es",
+         "voice_id" : "aura-2-carina-es"
+      },
+      {
+         "name" : "aura 2 alvaro es",
+         "voice_id" : "aura-2-alvaro-es"
+      },
+      {
+         "name" : "aura 2 diana es",
+         "voice_id" : "aura-2-diana-es"
+      },
+      {
+         "name" : "aura 2 javier es",
+         "voice_id" : "aura-2-javier-es"
+      },
+      {
+         "name" : "aura 2 rhea nl",
+         "voice_id" : "aura-2-rhea-nl"
+      },
+      {
+         "name" : "aura 2 sander nl",
+         "voice_id" : "aura-2-sander-nl"
+      },
+      {
+         "name" : "aura 2 agathe fr",
+         "voice_id" : "aura-2-agathe-fr"
+      },
+      {
+         "name" : "aura 2 hector fr",
+         "voice_id" : "aura-2-hector-fr"
+      },
+      {
+         "name" : "aura 2 julius de",
+         "voice_id" : "aura-2-julius-de"
+      },
+      {
+         "name" : "aura 2 viktoria de",
+         "voice_id" : "aura-2-viktoria-de"
+      },
+      {
+         "name" : "aura 2 livia it",
+         "voice_id" : "aura-2-livia-it"
+      },
+      {
+         "name" : "aura 2 dionisio it",
+         "voice_id" : "aura-2-dionisio-it"
+      },
+      {
+         "name" : "aura 2 fujin ja",
+         "voice_id" : "aura-2-fujin-ja"
+      },
+      {
+         "name" : "aura 2 izanami ja",
+         "voice_id" : "aura-2-izanami-ja"
+      },
+      {
+         "name" : "aura asteria en",
+         "voice_id" : "aura-asteria-en"
+      },
+      {
+         "name" : "aura luna en",
+         "voice_id" : "aura-luna-en"
+      },
+      {
+         "name" : "aura stella en",
+         "voice_id" : "aura-stella-en"
+      },
+      {
+         "name" : "aura athena en",
+         "voice_id" : "aura-athena-en"
+      },
+      {
+         "name" : "aura hera en",
+         "voice_id" : "aura-hera-en"
+      },
+      {
+         "name" : "aura orion en",
+         "voice_id" : "aura-orion-en"
+      },
+      {
+         "name" : "aura arcas en",
+         "voice_id" : "aura-arcas-en"
+      },
+      {
+         "name" : "aura perseus en",
+         "voice_id" : "aura-perseus-en"
+      },
+      {
+         "name" : "aura angus en",
+         "voice_id" : "aura-angus-en"
+      },
+      {
+         "name" : "aura orpheus en",
+         "voice_id" : "aura-orpheus-en"
+      },
+      {
+         "name" : "aura helios en",
+         "voice_id" : "aura-helios-en"
+      },
+      {
+         "name" : "aura zeus en",
+         "voice_id" : "aura-zeus-en"
+      }
+   ],
+   "voices_url" : "https://developers.deepgram.com/docs/tts-models"
+}

@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --radius: 0.625rem;
+  --background: #F5F3F4;
+  --foreground: #0A0A0A;
+  --card: #FFFFFF;
+  --card-foreground: #0A0A0A;
+  --popover: #FFFFFF;
+  --popover-foreground: #0A0A0A;
+  --primary: #08488A;
+  --primary-foreground: #FFFFFF;
+  --secondary: #E8E4E3;
+  --secondary-foreground: #0A0A0A;
+  --muted: #E8E4E3;
+  --muted-foreground: #5A5A5A;
+  --accent: #08488A;
+  --accent-foreground: #FFFFFF;
+  --destructive: #E7000B;
+  --border: #D0CECD;
+  --input: #DDD9D8;
+  --ring: #08488A;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #000000;
+    --foreground: #FDFCFB;
+    --card: #0A0A0A;
+    --card-foreground: #FDFCFB;
+    --popover: #0A0A0A;
+    --popover-foreground: #FDFCFB;
+    --primary: #00C2FF;
+    --primary-foreground: #171717;
+    --secondary: #212121;
+    --secondary-foreground: #FDFCFB;
+    --muted: #212121;
+    --muted-foreground: #B3B3B3;
+    --accent: #00C2FF;
+    --accent-foreground: #171717;
+    --destructive: #DC383E;
+    --border: #383838;
+    --input: #242424;
+    --ring: #00C2FF;
+  }
+}
+
+:root[data-theme="dark"] {
+  --background: #000000;
+  --foreground: #FDFCFB;
+  --card: #0A0A0A;
+  --card-foreground: #FDFCFB;
+  --popover: #0A0A0A;
+  --popover-foreground: #FDFCFB;
+  --primary: #00C2FF;
+  --primary-foreground: #171717;
+  --secondary: #212121;
+  --secondary-foreground: #FDFCFB;
+  --muted: #212121;
+  --muted-foreground: #B3B3B3;
+  --accent: #00C2FF;
+  --accent-foreground: #171717;
+  --destructive: #DC383E;
+  --border: #383838;
+  --input: #242424;
+  --ring: #00C2FF;
+}
+
+:root[data-theme="light"] {
+  --background: #F5F3F4;
+  --foreground: #0A0A0A;
+  --card: #FFFFFF;
+  --card-foreground: #0A0A0A;
+  --popover: #FFFFFF;
+  --popover-foreground: #0A0A0A;
+  --primary: #08488A;
+  --primary-foreground: #FFFFFF;
+  --secondary: #E8E4E3;
+  --secondary-foreground: #0A0A0A;
+  --muted: #E8E4E3;
+  --muted-foreground: #5A5A5A;
+  --accent: #08488A;
+  --accent-foreground: #FFFFFF;
+  --destructive: #E7000B;
+  --border: #D0CECD;
+  --input: #DDD9D8;
+  --ring: #08488A;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family:
+      ui-sans-serif,
+      system-ui,
+      -apple-system,
+      "Segoe UI",
+      Roboto,
+      Helvetica,
+      Arial,
+      sans-serif;
+  }
+}
+
+/* react-phone-number-input — align with app theme */
+@layer components {
+  .phone-field .PhoneInputCountry {
+    @apply mr-0 shrink-0 self-stretch;
+  }
+
+  .phone-field .PhoneInputCountrySelect {
+    @apply border-input bg-muted/50 text-foreground hover:bg-muted/80 focus-visible:ring-ring/50 h-full min-w-[4.75rem] cursor-pointer rounded-md border px-2 text-sm shadow-xs transition-colors focus-visible:ring-[3px] focus-visible:outline-none;
+  }
+
+  .phone-field .PhoneInputCountrySelectArrow {
+    @apply ml-1 opacity-60;
+  }
+
+  .phone-field .PhoneInputInput {
+    @apply min-w-0 flex-1;
+  }
+
+  .phone-field .PhoneInputCountryIcon {
+    @apply rounded-sm;
+  }
+}

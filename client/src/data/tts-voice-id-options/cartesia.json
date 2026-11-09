@@ -1,0 +1,73 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "Archie",
+         "voice_id" : "Archie"
+      },
+      {
+         "name" : "Ronald",
+         "voice_id" : "Ronald"
+      },
+      {
+         "name" : "Carson",
+         "voice_id" : "Carson"
+      },
+      {
+         "name" : "Jameson",
+         "voice_id" : "Jameson"
+      },
+      {
+         "name" : "Daniel",
+         "voice_id" : "Daniel"
+      },
+      {
+         "name" : "Skylar",
+         "voice_id" : "Skylar"
+      },
+      {
+         "name" : "Gemma",
+         "voice_id" : "Gemma"
+      },
+      {
+         "name" : "Katie",
+         "voice_id" : "Katie"
+      },
+      {
+         "name" : "Jacqueline",
+         "voice_id" : "Jacqueline"
+      },
+      {
+         "name" : "Cathy",
+         "voice_id" : "Cathy"
+      },
+      {
+         "name" : "Caroline",
+         "voice_id" : "Caroline"
+      },
+      {
+         "name" : "Kyle",
+         "voice_id" : "Kyle"
+      },
+      {
+         "name" : "Cory",
+         "voice_id" : "Cory"
+      },
+      {
+         "name" : "Nolan",
+         "voice_id" : "Nolan"
+      },
+      {
+         "name" : "Tessa",
+         "voice_id" : "Tessa"
+      },
+      {
+         "name" : "Ariana",
+         "voice_id" : "Ariana"
+      },
+      {
+         "name" : "Lucy",
+         "voice_id" : "Lucy"
+      }
+   ],
+   "voices_url" : "https://docs.cartesia.ai/build-with-cartesia/capability-guides/choosing-a-voice"
+}

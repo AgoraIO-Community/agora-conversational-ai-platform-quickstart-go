@@ -1,0 +1,53 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "en US AndrewMultilingualNeural",
+         "voice_id" : "en-US-AndrewMultilingualNeural"
+      },
+      {
+         "name" : "en US AvaMultilingualNeural",
+         "voice_id" : "en-US-AvaMultilingualNeural"
+      },
+      {
+         "name" : "en US BrianMultilingualNeural",
+         "voice_id" : "en-US-BrianMultilingualNeural"
+      },
+      {
+         "name" : "en US EmmaMultilingualNeural",
+         "voice_id" : "en-US-EmmaMultilingualNeural"
+      },
+      {
+         "name" : "en US JennyNeural",
+         "voice_id" : "en-US-JennyNeural"
+      },
+      {
+         "name" : "en US GuyNeural",
+         "voice_id" : "en-US-GuyNeural"
+      },
+      {
+         "name" : "en US AriaNeural",
+         "voice_id" : "en-US-AriaNeural"
+      },
+      {
+         "name" : "en US DavisNeural",
+         "voice_id" : "en-US-DavisNeural"
+      },
+      {
+         "name" : "en US JasonNeural",
+         "voice_id" : "en-US-JasonNeural"
+      },
+      {
+         "name" : "en US SaraNeural",
+         "voice_id" : "en-US-SaraNeural"
+      },
+      {
+         "name" : "en GB RyanNeural",
+         "voice_id" : "en-GB-RyanNeural"
+      },
+      {
+         "name" : "en GB SoniaNeural",
+         "voice_id" : "en-GB-SoniaNeural"
+      }
+   ],
+   "voices_url" : "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts"
+}

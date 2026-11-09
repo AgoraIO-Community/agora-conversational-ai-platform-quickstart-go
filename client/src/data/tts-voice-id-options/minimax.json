@@ -1,0 +1,85 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "English captivating female1",
+         "voice_id" : "English_captivating_female1"
+      },
+      {
+         "name" : "English expressive narrator",
+         "voice_id" : "English_expressive_narrator"
+      },
+      {
+         "name" : "English magnetic voiced man",
+         "voice_id" : "English_magnetic_voiced_man"
+      },
+      {
+         "name" : "English radiant girl",
+         "voice_id" : "English_radiant_girl"
+      },
+      {
+         "name" : "English Graceful Lady",
+         "voice_id" : "English_Graceful_Lady"
+      },
+      {
+         "name" : "English Aussie Bloke",
+         "voice_id" : "English_Aussie_Bloke"
+      },
+      {
+         "name" : "English Trustworthy Man",
+         "voice_id" : "English_Trustworthy_Man"
+      },
+      {
+         "name" : "English Gentle voiced man",
+         "voice_id" : "English_Gentle-voiced_man"
+      },
+      {
+         "name" : "English Reserved Young Man",
+         "voice_id" : "English_Reserved_Young_Man"
+      },
+      {
+         "name" : "English Confident Woman",
+         "voice_id" : "English_Confident_Woman"
+      },
+      {
+         "name" : "English Insightful Speaker",
+         "voice_id" : "English_Insightful_Speaker"
+      },
+      {
+         "name" : "English CalmWoman",
+         "voice_id" : "English_CalmWoman"
+      },
+      {
+         "name" : "English Kind hearted Girl",
+         "voice_id" : "English_Kind-hearted_Girl"
+      },
+      {
+         "name" : "English Passionate Woman",
+         "voice_id" : "English_Passionate_Woman"
+      },
+      {
+         "name" : "English Thoughtful Man",
+         "voice_id" : "English_Thoughtful_Man"
+      },
+      {
+         "name" : "English Assertive Queen",
+         "voice_id" : "English_Assertive_Queen"
+      },
+      {
+         "name" : "English Soft Female",
+         "voice_id" : "English_Soft_Female"
+      },
+      {
+         "name" : "English storyteller",
+         "voice_id" : "English_storyteller"
+      },
+      {
+         "name" : "English Upbeat Woman",
+         "voice_id" : "English_Upbeat_Woman"
+      },
+      {
+         "name" : "English Steady Female",
+         "voice_id" : "English_Steady_Female"
+      }
+   ],
+   "voices_url" : "https://platform.minimax.io/docs/faq/system-voice-id"
+}

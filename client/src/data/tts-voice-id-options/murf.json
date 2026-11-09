@@ -1,0 +1,69 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "Matthew",
+         "voice_id" : "Matthew"
+      },
+      {
+         "name" : "Natalie",
+         "voice_id" : "Natalie"
+      },
+      {
+         "name" : "Wayne",
+         "voice_id" : "Wayne"
+      },
+      {
+         "name" : "Will",
+         "voice_id" : "Will"
+      },
+      {
+         "name" : "Ken",
+         "voice_id" : "Ken"
+      },
+      {
+         "name" : "Miles",
+         "voice_id" : "Miles"
+      },
+      {
+         "name" : "Amara",
+         "voice_id" : "Amara"
+      },
+      {
+         "name" : "Hazel",
+         "voice_id" : "Hazel"
+      },
+      {
+         "name" : "Luna",
+         "voice_id" : "Luna"
+      },
+      {
+         "name" : "Alicia",
+         "voice_id" : "Alicia"
+      },
+      {
+         "name" : "Samantha",
+         "voice_id" : "Samantha"
+      },
+      {
+         "name" : "Terrell",
+         "voice_id" : "Terrell"
+      },
+      {
+         "name" : "Daisy",
+         "voice_id" : "Daisy"
+      },
+      {
+         "name" : "Eleanor",
+         "voice_id" : "Eleanor"
+      },
+      {
+         "name" : "Carter",
+         "voice_id" : "Carter"
+      },
+      {
+         "name" : "Theo",
+         "voice_id" : "Theo"
+      }
+   ],
+   "voices_url" : "https://murf.ai/api/docs/api-reference/text-to-speech/stream-input"
+}

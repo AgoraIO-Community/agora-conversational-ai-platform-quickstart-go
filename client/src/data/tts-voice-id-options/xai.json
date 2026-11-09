@@ -1,0 +1,25 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "eve",
+         "voice_id" : "eve"
+      },
+      {
+         "name" : "ara",
+         "voice_id" : "ara"
+      },
+      {
+         "name" : "rex",
+         "voice_id" : "rex"
+      },
+      {
+         "name" : "sal",
+         "voice_id" : "sal"
+      },
+      {
+         "name" : "leo",
+         "voice_id" : "leo"
+      }
+   ],
+   "voices_url" : "https://docs.x.ai/developers/models/text-to-speech"
+}

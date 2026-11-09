@@ -1,0 +1,117 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "en US Neural2 A",
+         "voice_id" : "en-US-Neural2-A"
+      },
+      {
+         "name" : "en US Neural2 B",
+         "voice_id" : "en-US-Neural2-B"
+      },
+      {
+         "name" : "en US Neural2 C",
+         "voice_id" : "en-US-Neural2-C"
+      },
+      {
+         "name" : "en US Neural2 D",
+         "voice_id" : "en-US-Neural2-D"
+      },
+      {
+         "name" : "en US Neural2 E",
+         "voice_id" : "en-US-Neural2-E"
+      },
+      {
+         "name" : "en US Neural2 F",
+         "voice_id" : "en-US-Neural2-F"
+      },
+      {
+         "name" : "en US Neural2 G",
+         "voice_id" : "en-US-Neural2-G"
+      },
+      {
+         "name" : "en US Neural2 H",
+         "voice_id" : "en-US-Neural2-H"
+      },
+      {
+         "name" : "en US Neural2 I",
+         "voice_id" : "en-US-Neural2-I"
+      },
+      {
+         "name" : "en US Neural2 J",
+         "voice_id" : "en-US-Neural2-J"
+      },
+      {
+         "name" : "en US Wavenet A",
+         "voice_id" : "en-US-Wavenet-A"
+      },
+      {
+         "name" : "en US Wavenet B",
+         "voice_id" : "en-US-Wavenet-B"
+      },
+      {
+         "name" : "en US Wavenet C",
+         "voice_id" : "en-US-Wavenet-C"
+      },
+      {
+         "name" : "en US Wavenet D",
+         "voice_id" : "en-US-Wavenet-D"
+      },
+      {
+         "name" : "en US Wavenet E",
+         "voice_id" : "en-US-Wavenet-E"
+      },
+      {
+         "name" : "en US Wavenet F",
+         "voice_id" : "en-US-Wavenet-F"
+      },
+      {
+         "name" : "en US Wavenet G",
+         "voice_id" : "en-US-Wavenet-G"
+      },
+      {
+         "name" : "en US Wavenet H",
+         "voice_id" : "en-US-Wavenet-H"
+      },
+      {
+         "name" : "en US Wavenet I",
+         "voice_id" : "en-US-Wavenet-I"
+      },
+      {
+         "name" : "en US Wavenet J",
+         "voice_id" : "en-US-Wavenet-J"
+      },
+      {
+         "name" : "en US Chirp3 HD Charon",
+         "voice_id" : "en-US-Chirp3-HD-Charon"
+      },
+      {
+         "name" : "en US Chirp3 HD Kore",
+         "voice_id" : "en-US-Chirp3-HD-Kore"
+      },
+      {
+         "name" : "en US Chirp3 HD Aoede",
+         "voice_id" : "en-US-Chirp3-HD-Aoede"
+      },
+      {
+         "name" : "en US Chirp3 HD Puck",
+         "voice_id" : "en-US-Chirp3-HD-Puck"
+      },
+      {
+         "name" : "en US Chirp3 HD Fenrir",
+         "voice_id" : "en-US-Chirp3-HD-Fenrir"
+      },
+      {
+         "name" : "en US Chirp3 HD Leda",
+         "voice_id" : "en-US-Chirp3-HD-Leda"
+      },
+      {
+         "name" : "en US Chirp3 HD Orus",
+         "voice_id" : "en-US-Chirp3-HD-Orus"
+      },
+      {
+         "name" : "en US Chirp3 HD Zephyr",
+         "voice_id" : "en-US-Chirp3-HD-Zephyr"
+      }
+   ],
+   "voices_url" : "https://cloud.google.com/text-to-speech/docs/voices"
+}

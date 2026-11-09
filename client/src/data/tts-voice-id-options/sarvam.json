@@ -1,0 +1,33 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "anushka",
+         "voice_id" : "anushka"
+      },
+      {
+         "name" : "manisha",
+         "voice_id" : "manisha"
+      },
+      {
+         "name" : "vidya",
+         "voice_id" : "vidya"
+      },
+      {
+         "name" : "arya",
+         "voice_id" : "arya"
+      },
+      {
+         "name" : "abhilash",
+         "voice_id" : "abhilash"
+      },
+      {
+         "name" : "karun",
+         "voice_id" : "karun"
+      },
+      {
+         "name" : "hitesh",
+         "voice_id" : "hitesh"
+      }
+   ],
+   "voices_url" : "https://docs.sarvam.ai/api-reference-docs/text-to-speech/convert"
+}

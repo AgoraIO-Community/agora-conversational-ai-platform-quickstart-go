@@ -1,0 +1,105 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "cove",
+         "voice_id" : "cove"
+      },
+      {
+         "name" : "river",
+         "voice_id" : "river"
+      },
+      {
+         "name" : "luna",
+         "voice_id" : "luna"
+      },
+      {
+         "name" : "sage",
+         "voice_id" : "sage"
+      },
+      {
+         "name" : "aspen",
+         "voice_id" : "aspen"
+      },
+      {
+         "name" : "vera",
+         "voice_id" : "vera"
+      },
+      {
+         "name" : "willow",
+         "voice_id" : "willow"
+      },
+      {
+         "name" : "wren",
+         "voice_id" : "wren"
+      },
+      {
+         "name" : "marsh",
+         "voice_id" : "marsh"
+      },
+      {
+         "name" : "moss",
+         "voice_id" : "moss"
+      },
+      {
+         "name" : "reed",
+         "voice_id" : "reed"
+      },
+      {
+         "name" : "cedar",
+         "voice_id" : "cedar"
+      },
+      {
+         "name" : "ember",
+         "voice_id" : "ember"
+      },
+      {
+         "name" : "ash",
+         "voice_id" : "ash"
+      },
+      {
+         "name" : "heather",
+         "voice_id" : "heather"
+      },
+      {
+         "name" : "juniper",
+         "voice_id" : "juniper"
+      },
+      {
+         "name" : "lilac",
+         "voice_id" : "lilac"
+      },
+      {
+         "name" : "maple",
+         "voice_id" : "maple"
+      },
+      {
+         "name" : "meadow",
+         "voice_id" : "meadow"
+      },
+      {
+         "name" : "pine",
+         "voice_id" : "pine"
+      },
+      {
+         "name" : "rose",
+         "voice_id" : "rose"
+      },
+      {
+         "name" : "sierra",
+         "voice_id" : "sierra"
+      },
+      {
+         "name" : "stone",
+         "voice_id" : "stone"
+      },
+      {
+         "name" : "terra",
+         "voice_id" : "terra"
+      },
+      {
+         "name" : "violet",
+         "voice_id" : "violet"
+      }
+   ],
+   "voices_url" : "https://docs.rime.ai/api-reference/arcana/streaming-pcm"
+}

@@ -1,0 +1,33 @@
+export const TTS_VOICE_URLS: Record<string, string> = {
+  amazon: "https://docs.aws.amazon.com/polly/latest/dg/voicelist.html",
+  cartesia: "https://docs.cartesia.ai/build-with-cartesia/capability-guides/choosing-a-voice",
+  deepgram: "https://developers.deepgram.com/docs/tts-models",
+  elevenlabs: "https://elevenlabs.io/app/voice-library",
+  fishaudio: "https://fish.audio/app/discovery/",
+  google: "https://cloud.google.com/text-to-speech/docs/voices",
+  humeai: "https://app.hume.ai/voices",
+  microsoft: "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts",
+  minimax: "https://platform.minimax.io/docs/faq/system-voice-id",
+  murf: "https://murf.ai/api/docs/api-reference/text-to-speech/stream-input",
+  openai: "https://platform.openai.com/docs/guides/text-to-speech",
+  rime: "https://docs.rime.ai/api-reference/arcana/streaming-pcm",
+  sarvam: "https://docs.sarvam.ai/api-reference-docs/text-to-speech/convert",
+  xai: "https://docs.x.ai/developers/models/text-to-speech",
+};
+
+export const TTS_VOICE_FIELD_PATHS: Record<string, string> = {
+  amazon: "voice",
+  cartesia: "voice.id",
+  deepgram: "model",
+  elevenlabs: "voice_id",
+  fishaudio: "reference_id",
+  google: "VoiceSelectionParams.name",
+  humeai: "voice_id",
+  microsoft: "voice_name",
+  minimax: "voice_setting.voice_id",
+  murf: "voiceId",
+  openai: "voice",
+  rime: "speaker",
+  sarvam: "speaker",
+  xai: "voice_id",
+};

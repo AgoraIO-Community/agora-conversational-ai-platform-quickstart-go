@@ -1,0 +1,57 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "alloy",
+         "voice_id" : "alloy"
+      },
+      {
+         "name" : "ash",
+         "voice_id" : "ash"
+      },
+      {
+         "name" : "ballad",
+         "voice_id" : "ballad"
+      },
+      {
+         "name" : "coral",
+         "voice_id" : "coral"
+      },
+      {
+         "name" : "echo",
+         "voice_id" : "echo"
+      },
+      {
+         "name" : "fable",
+         "voice_id" : "fable"
+      },
+      {
+         "name" : "marin",
+         "voice_id" : "marin"
+      },
+      {
+         "name" : "cedar",
+         "voice_id" : "cedar"
+      },
+      {
+         "name" : "nova",
+         "voice_id" : "nova"
+      },
+      {
+         "name" : "onyx",
+         "voice_id" : "onyx"
+      },
+      {
+         "name" : "sage",
+         "voice_id" : "sage"
+      },
+      {
+         "name" : "shimmer",
+         "voice_id" : "shimmer"
+      },
+      {
+         "name" : "verse",
+         "voice_id" : "verse"
+      }
+   ],
+   "voices_url" : "https://platform.openai.com/docs/guides/text-to-speech"
+}

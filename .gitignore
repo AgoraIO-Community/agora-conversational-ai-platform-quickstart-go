@@ -1,0 +1,46 @@
+# Environment and secrets
+.env
+.env.*
+!env.example
+*.pem
+
+# Go build and test artifacts
+/bin/
+/tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+coverage.html
+go.work
+go.work.sum
+
+# React / Vite / Node
+node_modules/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Package-manager caches and logs
+.pnpm-store/
+.npm/
+.yarn/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Agora CLI project binding
+.agora/

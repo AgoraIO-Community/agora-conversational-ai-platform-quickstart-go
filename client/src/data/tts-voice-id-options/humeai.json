@@ -1,0 +1,245 @@
+{
+  "voice_ids": [
+    {
+      "name": "Colton Rivers",
+      "voice_id": "d8ab67c6-953d-4bd8-9370-8fa53a0f1453"
+    },
+    {
+      "name": "Dungeon Master",
+      "voice_id": "44cb3a51-07b4-4934-83fd-9d9e8d363ce6"
+    },
+    {
+      "name": "Female Meditation Guide",
+      "voice_id": "b270ea4b-d169-4d1b-83c4-2e816e947522"
+    },
+    {
+      "name": "Friendly Troll",
+      "voice_id": "9c2fa3e6-7bbf-4e71-8838-3d28f26cc269"
+    },
+    {
+      "name": "Geraldine Wallace",
+      "voice_id": "06646694-ba2a-4bca-ae3c-71d79c6b04a3"
+    },
+    {
+      "name": "Ghost With Unfinished Business",
+      "voice_id": "2c0e2c10-ac19-4aac-93d0-29c385d7364e"
+    },
+    {
+      "name": "Imani Carter",
+      "voice_id": "96ee3964-5f3f-4a5a-be09-393e833aaf0e"
+    },
+    {
+      "name": "Lady Elizabeth",
+      "voice_id": "c7aa10be-57c1-4647-9306-7ac48dde3536"
+    },
+    {
+      "name": "Male Protagonist",
+      "voice_id": "82a76fb8-3524-4e87-9265-9795c8e4ede6"
+    },
+    {
+      "name": "Medieval Peasant Woman",
+      "voice_id": "a6984261-4b9f-492c-a5fd-9ddbe14039c4"
+    },
+    {
+      "name": "Medieval Town Crier",
+      "voice_id": "0366be28-522b-432b-b346-119d5f21c3f2"
+    },
+    {
+      "name": "Mrs. Pembroke",
+      "voice_id": "375cd12e-8216-4c6d-8d79-5dfd56fe19f5"
+    },
+    {
+      "name": "Nasal Podcast Host",
+      "voice_id": "203d3e34-e50b-48ab-a782-835fa39c36c6"
+    },
+    {
+      "name": "Old School Radio Announcer",
+      "voice_id": "88e0c3f6-6f99-4e37-a3f4-a053869d6bd4"
+    },
+    {
+      "name": "Old-Timey English Priest",
+      "voice_id": "27019e54-59c4-4400-a51c-7e5fd2142029"
+    },
+    {
+      "name": "Pirate Captain",
+      "voice_id": "2bc0fca6-d591-4855-abef-ec048a385e8f"
+    },
+    {
+      "name": "Relaxing ASMR Woman",
+      "voice_id": "aeaaf1f8-fe31-49ae-893d-c744e5207bc2"
+    },
+    {
+      "name": "Sad Old British Man",
+      "voice_id": "55813df9-fdbb-4ec2-a539-1b91fd750ca6"
+    },
+    {
+      "name": "Scottish Guy",
+      "voice_id": "a48360cb-14f3-460c-93f2-b38deb45400b"
+    },
+    {
+      "name": "Tough Guy",
+      "voice_id": "6a42908a-f332-4c39-a93a-98c7d6017f12"
+    },
+    {
+      "name": "Wrestling Announcer",
+      "voice_id": "dc6f3593-4ae1-46eb-9121-b872ad7ba1a0"
+    },
+    {
+      "name": "Medieval Peasant Man",
+      "voice_id": "a1e5674e-3ef1-4394-913c-d4cd70b96801"
+    },
+    {
+      "name": "Terrence Bentley",
+      "voice_id": "7f633ac4-8181-4e0d-99e1-11a4ef033691"
+    },
+    {
+      "name": "Sebastian Lockwood",
+      "voice_id": "522fc367-961f-4817-8929-81f433b4afe9"
+    },
+    {
+      "name": "Charming Cowgirl",
+      "voice_id": "3f636d17-44c7-4872-93d1-0c8f51c916a3"
+    },
+    {
+      "name": "Donovan Sinclair",
+      "voice_id": "f042c0be-b7cc-4a59-bea2-65f23e12c710"
+    },
+    {
+      "name": "Nature Documentary Narrator",
+      "voice_id": "176a55b1-4468-4736-8878-db82729667c1"
+    },
+    {
+      "name": "Alice Bennett",
+      "voice_id": "a7ecc00a-6fc0-4546-8126-e12cfd8de3bf"
+    },
+    {
+      "name": "Sitcom Girl",
+      "voice_id": "5bbc32c1-a1f6-44e8-bedb-9870f23619e2"
+    },
+    {
+      "name": "Unserious Movie Trailer Narrator",
+      "voice_id": "2ca55181-9d21-43b3-9e6e-0cb24a669e6c"
+    },
+    {
+      "name": "Wise Wizard",
+      "voice_id": "e7024495-03e7-4e8b-8b22-27c54ee25ffa"
+    },
+    {
+      "name": "Unserious TV Host",
+      "voice_id": "a5b1def0-16a5-4fcc-bfa8-2a0de2e35d93"
+    },
+    {
+      "name": "French Chef",
+      "voice_id": "f8a649d1-0fb6-4168-a1e2-e9ec41937c55"
+    },
+    {
+      "name": "Turtle Guru",
+      "voice_id": "e722344d-e09a-489d-9f10-b67a28edd35a"
+    },
+    {
+      "name": "Big Dicky",
+      "voice_id": "95f9baac-4512-4edb-a73e-2070784ccc2f"
+    },
+    {
+      "name": "Awe Inspired Guy",
+      "voice_id": "2a7b176a-ca45-4ff8-8a65-56f873a5fdc7"
+    },
+    {
+      "name": "Ava Song",
+      "voice_id": "5bb7de05-c8fe-426a-8fcc-ba4fc4ce9f9c"
+    },
+    {
+      "name": "Sir Spandrel",
+      "voice_id": "921ece15-27c1-4028-b6ac-82d2d93f65c4"
+    },
+    {
+      "name": "Live Comedian",
+      "voice_id": "cb1a4fae-dad5-4729-bd73-a43f570b9117"
+    },
+    {
+      "name": "Spanish Instructor",
+      "voice_id": "5ac595dd-26ce-4898-961a-b19efa9cd491"
+    },
+    {
+      "name": "Dramatic Movie Trailer Narrator",
+      "voice_id": "c11052f5-96df-4c0e-9bba-07e0ad19c4b3"
+    },
+    {
+      "name": "Vince Douglas",
+      "voice_id": "ee96fb5f-ec1a-4f41-a9ba-6d119e64c8fd"
+    },
+    {
+      "name": "Campfire Narrator",
+      "voice_id": "b89de4b1-3df6-4e4f-a054-9aed4351092d"
+    },
+    {
+      "name": "TikTok Fashion Influencer",
+      "voice_id": "ebba4902-69de-4e01-9846-d8feba5a1a3f"
+    },
+    {
+      "name": "Male Australian Naturalist",
+      "voice_id": "6b69954e-6c9a-4ade-ad03-f73e116e1eae"
+    },
+    {
+      "name": "English Children's Book Narrator",
+      "voice_id": "a3cc3538-c557-45e0-ada0-b022937d51c1"
+    },
+    {
+      "name": "Literature Professor",
+      "voice_id": "5cad536a-3013-4f01-8390-d6d405d266a9"
+    },
+    {
+      "name": "Comforting Male Conversationalist",
+      "voice_id": "99d2cb9c-9011-4ead-8734-641656d3df66"
+    },
+    {
+      "name": "Deep Male Conversational Voice",
+      "voice_id": "9c5a3d53-4a8c-4fa2-adad-8e61a830d0e8"
+    },
+    {
+      "name": "Casual Podcast Host",
+      "voice_id": "33045fd9-8010-43f6-b6b0-da3fbf326c29"
+    },
+    {
+      "name": "Cool Journalist",
+      "voice_id": "f3f69312-095c-4ec3-8e50-6961c676e898"
+    },
+    {
+      "name": "Demure Conversationalist",
+      "voice_id": "d6fd5cc2-53e6-4e80-ba83-93972682386a"
+    },
+    {
+      "name": "Conversational English Guy",
+      "voice_id": "d1248151-8613-41c1-b524-4ce242b02090"
+    },
+    {
+      "name": "English Casual Conversationalist",
+      "voice_id": "5add9038-28df-40a6-900c-2f736d008ab3"
+    },
+    {
+      "name": "Serene Assistant",
+      "voice_id": "71de875d-bc14-4ed5-87da-8584ba4ea247"
+    },
+    {
+      "name": "Soft Male Conversationalist",
+      "voice_id": "b152864b-6720-496a-9d18-eaadb31516ee"
+    },
+    {
+      "name": "Booming American Narrator",
+      "voice_id": "445d65ed-a87f-4140-9820-daf6d4f0a200"
+    },
+    {
+      "name": "Booming British Narrator",
+      "voice_id": "84aaf67b-dcab-409d-9f48-8c4aa7abbb24"
+    },
+    {
+      "name": "Articulate ASMR British Narrator",
+      "voice_id": "4652d91b-edaf-42c5-abd4-904009422de3"
+    },
+    {
+      "name": "Male English Actor",
+      "voice_id": "9e068547-5ba4-4c8e-8e03-69282a008f04"
+    }
+  ],
+  "voices_url": "https://app.hume.ai/voices"
+}

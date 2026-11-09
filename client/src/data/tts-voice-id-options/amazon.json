@@ -1,0 +1,429 @@
+{
+   "voice_ids" : [
+      {
+         "name" : "Aditi",
+         "voice_id" : "Aditi"
+      },
+      {
+         "name" : "Amy",
+         "voice_id" : "Amy"
+      },
+      {
+         "name" : "Astrid",
+         "voice_id" : "Astrid"
+      },
+      {
+         "name" : "Bianca",
+         "voice_id" : "Bianca"
+      },
+      {
+         "name" : "Brian",
+         "voice_id" : "Brian"
+      },
+      {
+         "name" : "Camila",
+         "voice_id" : "Camila"
+      },
+      {
+         "name" : "Carla",
+         "voice_id" : "Carla"
+      },
+      {
+         "name" : "Carmen",
+         "voice_id" : "Carmen"
+      },
+      {
+         "name" : "Celine",
+         "voice_id" : "Celine"
+      },
+      {
+         "name" : "Chantal",
+         "voice_id" : "Chantal"
+      },
+      {
+         "name" : "Conchita",
+         "voice_id" : "Conchita"
+      },
+      {
+         "name" : "Cristiano",
+         "voice_id" : "Cristiano"
+      },
+      {
+         "name" : "Dora",
+         "voice_id" : "Dora"
+      },
+      {
+         "name" : "Emma",
+         "voice_id" : "Emma"
+      },
+      {
+         "name" : "Enrique",
+         "voice_id" : "Enrique"
+      },
+      {
+         "name" : "Ewa",
+         "voice_id" : "Ewa"
+      },
+      {
+         "name" : "Filiz",
+         "voice_id" : "Filiz"
+      },
+      {
+         "name" : "Gabrielle",
+         "voice_id" : "Gabrielle"
+      },
+      {
+         "name" : "Geraint",
+         "voice_id" : "Geraint"
+      },
+      {
+         "name" : "Giorgio",
+         "voice_id" : "Giorgio"
+      },
+      {
+         "name" : "Gwyneth",
+         "voice_id" : "Gwyneth"
+      },
+      {
+         "name" : "Hans",
+         "voice_id" : "Hans"
+      },
+      {
+         "name" : "Ines",
+         "voice_id" : "Ines"
+      },
+      {
+         "name" : "Ivy",
+         "voice_id" : "Ivy"
+      },
+      {
+         "name" : "Jacek",
+         "voice_id" : "Jacek"
+      },
+      {
+         "name" : "Jan",
+         "voice_id" : "Jan"
+      },
+      {
+         "name" : "Joanna",
+         "voice_id" : "Joanna"
+      },
+      {
+         "name" : "Joey",
+         "voice_id" : "Joey"
+      },
+      {
+         "name" : "Justin",
+         "voice_id" : "Justin"
+      },
+      {
+         "name" : "Karl",
+         "voice_id" : "Karl"
+      },
+      {
+         "name" : "Kendra",
+         "voice_id" : "Kendra"
+      },
+      {
+         "name" : "Kevin",
+         "voice_id" : "Kevin"
+      },
+      {
+         "name" : "Kimberly",
+         "voice_id" : "Kimberly"
+      },
+      {
+         "name" : "Lea",
+         "voice_id" : "Lea"
+      },
+      {
+         "name" : "Liv",
+         "voice_id" : "Liv"
+      },
+      {
+         "name" : "Lotte",
+         "voice_id" : "Lotte"
+      },
+      {
+         "name" : "Lucia",
+         "voice_id" : "Lucia"
+      },
+      {
+         "name" : "Lupe",
+         "voice_id" : "Lupe"
+      },
+      {
+         "name" : "Mads",
+         "voice_id" : "Mads"
+      },
+      {
+         "name" : "Maja",
+         "voice_id" : "Maja"
+      },
+      {
+         "name" : "Marlene",
+         "voice_id" : "Marlene"
+      },
+      {
+         "name" : "Mathieu",
+         "voice_id" : "Mathieu"
+      },
+      {
+         "name" : "Matthew",
+         "voice_id" : "Matthew"
+      },
+      {
+         "name" : "Maxim",
+         "voice_id" : "Maxim"
+      },
+      {
+         "name" : "Mia",
+         "voice_id" : "Mia"
+      },
+      {
+         "name" : "Miguel",
+         "voice_id" : "Miguel"
+      },
+      {
+         "name" : "Mizuki",
+         "voice_id" : "Mizuki"
+      },
+      {
+         "name" : "Naja",
+         "voice_id" : "Naja"
+      },
+      {
+         "name" : "Nicole",
+         "voice_id" : "Nicole"
+      },
+      {
+         "name" : "Olivia",
+         "voice_id" : "Olivia"
+      },
+      {
+         "name" : "Penelope",
+         "voice_id" : "Penelope"
+      },
+      {
+         "name" : "Raveena",
+         "voice_id" : "Raveena"
+      },
+      {
+         "name" : "Ricardo",
+         "voice_id" : "Ricardo"
+      },
+      {
+         "name" : "Ruben",
+         "voice_id" : "Ruben"
+      },
+      {
+         "name" : "Russell",
+         "voice_id" : "Russell"
+      },
+      {
+         "name" : "Salli",
+         "voice_id" : "Salli"
+      },
+      {
+         "name" : "Seoyeon",
+         "voice_id" : "Seoyeon"
+      },
+      {
+         "name" : "Takumi",
+         "voice_id" : "Takumi"
+      },
+      {
+         "name" : "Tatyana",
+         "voice_id" : "Tatyana"
+      },
+      {
+         "name" : "Vicki",
+         "voice_id" : "Vicki"
+      },
+      {
+         "name" : "Vitoria",
+         "voice_id" : "Vitoria"
+      },
+      {
+         "name" : "Zeina",
+         "voice_id" : "Zeina"
+      },
+      {
+         "name" : "Zhiyu",
+         "voice_id" : "Zhiyu"
+      },
+      {
+         "name" : "Aria",
+         "voice_id" : "Aria"
+      },
+      {
+         "name" : "Ayanda",
+         "voice_id" : "Ayanda"
+      },
+      {
+         "name" : "Arlet",
+         "voice_id" : "Arlet"
+      },
+      {
+         "name" : "Hannah",
+         "voice_id" : "Hannah"
+      },
+      {
+         "name" : "Arthur",
+         "voice_id" : "Arthur"
+      },
+      {
+         "name" : "Daniel",
+         "voice_id" : "Daniel"
+      },
+      {
+         "name" : "Liam",
+         "voice_id" : "Liam"
+      },
+      {
+         "name" : "Pedro",
+         "voice_id" : "Pedro"
+      },
+      {
+         "name" : "Kajal",
+         "voice_id" : "Kajal"
+      },
+      {
+         "name" : "Hiujin",
+         "voice_id" : "Hiujin"
+      },
+      {
+         "name" : "Laura",
+         "voice_id" : "Laura"
+      },
+      {
+         "name" : "Elin",
+         "voice_id" : "Elin"
+      },
+      {
+         "name" : "Ida",
+         "voice_id" : "Ida"
+      },
+      {
+         "name" : "Suvi",
+         "voice_id" : "Suvi"
+      },
+      {
+         "name" : "Ola",
+         "voice_id" : "Ola"
+      },
+      {
+         "name" : "Hala",
+         "voice_id" : "Hala"
+      },
+      {
+         "name" : "Andres",
+         "voice_id" : "Andres"
+      },
+      {
+         "name" : "Sergio",
+         "voice_id" : "Sergio"
+      },
+      {
+         "name" : "Remi",
+         "voice_id" : "Remi"
+      },
+      {
+         "name" : "Adriano",
+         "voice_id" : "Adriano"
+      },
+      {
+         "name" : "Thiago",
+         "voice_id" : "Thiago"
+      },
+      {
+         "name" : "Ruth",
+         "voice_id" : "Ruth"
+      },
+      {
+         "name" : "Stephen",
+         "voice_id" : "Stephen"
+      },
+      {
+         "name" : "Kazuha",
+         "voice_id" : "Kazuha"
+      },
+      {
+         "name" : "Tomoko",
+         "voice_id" : "Tomoko"
+      },
+      {
+         "name" : "Niamh",
+         "voice_id" : "Niamh"
+      },
+      {
+         "name" : "Sofie",
+         "voice_id" : "Sofie"
+      },
+      {
+         "name" : "Lisa",
+         "voice_id" : "Lisa"
+      },
+      {
+         "name" : "Isabelle",
+         "voice_id" : "Isabelle"
+      },
+      {
+         "name" : "Zayd",
+         "voice_id" : "Zayd"
+      },
+      {
+         "name" : "Danielle",
+         "voice_id" : "Danielle"
+      },
+      {
+         "name" : "Gregory",
+         "voice_id" : "Gregory"
+      },
+      {
+         "name" : "Burcu",
+         "voice_id" : "Burcu"
+      },
+      {
+         "name" : "Jitka",
+         "voice_id" : "Jitka"
+      },
+      {
+         "name" : "Sabrina",
+         "voice_id" : "Sabrina"
+      },
+      {
+         "name" : "Jasmine",
+         "voice_id" : "Jasmine"
+      },
+      {
+         "name" : "Jihye",
+         "voice_id" : "Jihye"
+      },
+      {
+         "name" : "Ambre",
+         "voice_id" : "Ambre"
+      },
+      {
+         "name" : "Beatrice",
+         "voice_id" : "Beatrice"
+      },
+      {
+         "name" : "Florian",
+         "voice_id" : "Florian"
+      },
+      {
+         "name" : "Lennart",
+         "voice_id" : "Lennart"
+      },
+      {
+         "name" : "Lorenzo",
+         "voice_id" : "Lorenzo"
+      },
+      {
+         "name" : "Tiffany",
+         "voice_id" : "Tiffany"
+      }
+   ],
+   "voices_url" : "https://docs.aws.amazon.com/polly/latest/dg/voicelist.html"
+}
