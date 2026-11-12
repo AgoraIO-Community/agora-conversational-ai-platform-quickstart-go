@@ -3,9 +3,11 @@
 A standalone web application for managing Agora Conversational AI v3
 resources and testing outbound voice agents.
 
-> **v3 preview branch.** The backend uses the low-level `v3` package of the
-> Agora Agents Go SDK alpha.4 preview (`github.com/AgoraIO/agora-agents-go/v2/v3`).
-> The `v2` branch keeps the original Studio v2 API implementation.
+> **Preview:** the Conversational AI Platform (v3) API is in preview. The backend
+> uses the low-level `v3` package of the Agora Agents Go SDK alpha.4 preview
+> (`github.com/AgoraIO/agora-agents-go/v2/v3`).
+
+Documentation: [Conversational AI Platform documentation](https://docs.agora.io/en/ai/platform).
 
 The frontend is React 19 with Vite, TypeScript, Tailwind CSS, and
 TanStack Router. The backend is Go 1.21+ with Gin. The two run as separate

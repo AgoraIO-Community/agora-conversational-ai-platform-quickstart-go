@@ -27,7 +27,7 @@ import {
 import { isValidPhoneNumber } from "@/components/phone-field";
 import { ProjectSwitcher } from "@/components/project-switcher";
 
-const STUDIO_DOCS_URL = "https://convo-ai-studio-docs-preview.vercel.app/";
+const PLATFORM_DOCS_URL = "https://docs.agora.io/en/ai/platform";
 
 type Outcome =
   | { status: "idle" }
@@ -313,12 +313,12 @@ export default function Home() {
     return (
       <div className="from-background via-background to-muted/15 flex min-h-screen flex-col items-center justify-center gap-4 bg-gradient-to-b px-4">
         <a
-          href={STUDIO_DOCS_URL}
+          href={PLATFORM_DOCS_URL}
           target="_blank"
           rel="noreferrer"
           className="border-border/70 bg-card/65 text-muted-foreground hover:text-foreground inline-flex items-center gap-2 rounded-full border px-3 py-1.5 text-xs shadow-sm backdrop-blur-sm transition"
         >
-          Open Studio docs
+          Open Platform docs
         </a>
         <Card className="w-full max-w-md border-border/80 shadow-lg">
           <CardHeader className="space-y-2 text-center">
@@ -366,12 +366,12 @@ export default function Home() {
           <ProjectSwitcher onProjectChange={changeProject} />
           <div className="flex flex-wrap items-center justify-end gap-2">
             <a
-              href={STUDIO_DOCS_URL}
+              href={PLATFORM_DOCS_URL}
               target="_blank"
               rel="noreferrer"
               className="border-border/80 bg-card/60 text-muted-foreground inline-flex items-center gap-2 rounded-full border px-3 py-1.5 text-xs shadow-sm backdrop-blur-sm transition hover:text-foreground"
             >
-              Open Studio docs
+              Open Platform docs
             </a>
             <div className="border-border/80 bg-card/60 text-muted-foreground flex items-center gap-2 rounded-full border px-3 py-1.5 text-xs shadow-sm backdrop-blur-sm">
               <User className="size-3.5 shrink-0" aria-hidden />
